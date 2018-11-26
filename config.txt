@@ -1,6 +1,6 @@
-token= NTEwMTk0OTQwMzgzMzMwMzE1.Dsix1w.3m3mmVNSbvlAibUhrrQMwxMBiJ8
-owner= 514114378384015372
-prefix= D
-game= Type Dhelp
+token= NTE2NDQxMDUxOTYwMTgwNzU3.Dtzszw.-w6BzRQYcRF0PiTLWJk2sYIyoUI
+owner= 435239093182398480
+prefix= 1
+game= Type 1help
 stayinchannel=true 
 songinstatus=false 
